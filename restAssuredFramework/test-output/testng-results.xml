@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="5" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5783" started-at="2018-08-19T17:49:52Z" finished-at="2018-08-19T17:49:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5783" started-at="2018-08-19T17:49:52Z" finished-at="2018-08-19T17:49:58Z">
+      <class name="com.restful.get.PlayWithRestAssured">
+        <test-method status="PASS" signature="testDeleteMethod()[pri:0, instance:com.restful.get.PlayWithRestAssured@18be83e4]" name="testDeleteMethod" duration-ms="2449" started-at="2018-08-19T17:49:52Z" finished-at="2018-08-19T17:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteMethod -->
+        <test-method status="PASS" signature="testGetMethod()[pri:0, instance:com.restful.get.PlayWithRestAssured@18be83e4]" name="testGetMethod" duration-ms="2200" started-at="2018-08-19T17:49:54Z" finished-at="2018-08-19T17:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetMethod -->
+        <test-method status="PASS" signature="testPostMethod()[pri:0, instance:com.restful.get.PlayWithRestAssured@18be83e4]" name="testPostMethod" duration-ms="506" started-at="2018-08-19T17:49:57Z" finished-at="2018-08-19T17:49:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostMethod -->
+        <test-method status="PASS" signature="testPutMethod()[pri:0, instance:com.restful.get.PlayWithRestAssured@18be83e4]" name="testPutMethod" duration-ms="579" started-at="2018-08-19T17:49:57Z" finished-at="2018-08-19T17:49:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPutMethod -->
+      </class> <!-- com.restful.get.PlayWithRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
